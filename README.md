@@ -21,10 +21,56 @@ const harsh = {
         program: "b.tech",
         at: "Ahmedabad University"
     },
-    skills: ["ReactJs", "NodeJs", "MongoDB", "Android Development", "HTML", "CSS", "Java", "C", "C++", "Python", "SQLite-MySQL"],
+    skills: ["ReactJs", "NodeJs", "MongoDB", "Android Development", "HTML", "CSS",
+               "JavaScript", "Java", "C", "C++", "Python", "SQLite-MySQL"],
     hobbies: ["Reading Book", "Music", "Cricket"],
     currentFocus: ["Software Engineering", "Full-stack development"],
 };
+```
 
-📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmange44&count_private=true&show_icons=true)
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+          <span>React.js</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/officel/80/000000/react.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/000000/nodejs.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
+        </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/000000/python.png"/>
+      </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>VS Code</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"/>
+        </td>
+        <td width="25%" align="center">
+        <span>Android Studio</span><br><br>
+        <img height="64px" src="https://img.icons8.com/fluent/96/000000/android-os.png"/>
+      </td>
+      <td width="25%" align="center">
+        <span>Adobe xd</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/000000/adobe-xd.png"/>
+        </td>
+      <td width="25%" align="center">
+        <span>Jira</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/96/000000/jira.png"/>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📈 My GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harshmange44&count_private=true&show_icons=true&theme=onedark" alt="harshmange44" /></p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmange44&layout=compact&theme=onedark&count_private=true&show_icons=true" alt="harshmange44"/></p>
