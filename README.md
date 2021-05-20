@@ -1,5 +1,5 @@
 <h2>हेल्लो (Hellloooo)👋, This is Harsh Mange!!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="230">
 <p><em>Undergraduate Student at <a href="https://ahduni.edu.in">Ahmedabad University</a></em></p>
 
 [![Linkedin: harsh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshmange)
