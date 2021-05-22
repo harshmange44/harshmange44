@@ -21,7 +21,6 @@ npx harshmange
 ```javascript
 const harsh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["Web development", "App development", "Cricket"],
     pursuing: {
         course: "Information & Communication Technology",
