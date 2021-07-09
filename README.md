@@ -78,5 +78,3 @@ const harsh = {
 
 ## 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harshmange44&count_private=true&show_icons=true&theme=onedark" alt="harshmange44" /></p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmange44&layout=compact&theme=onedark&count_private=true&show_icons=true" alt="harshmange44"/></p>
