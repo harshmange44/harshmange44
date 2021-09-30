@@ -1,4 +1,4 @@
-<h2>हेल्लो (Hellloooo)👋, This is Harsh Mange!!</h2>
+<h2> Hellooo!! This is Harsh Mange!!</h2>
 <p><em>Undergraduate Student at <a href="https://ahduni.edu.in">Ahmedabad University</a></em></p>
 
 [![Linkedin: harsh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshmange)
@@ -7,18 +7,10 @@
 [![CodeChef](https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/harshmange44)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/4238/)
 
-👇 Hit this in your console or terminal to connect with me.
-
-```bash
-npx harshmange
-```
-
-### Who I am ?  
-
 ```javascript
-const harsh = {
+{
     pronouns: "He" | "Him",
-    askMeAbout: ["Web development", "App development", "Cricket"],
+    askMeAbout: ["Web development", "Android app development", "Cricket"],
     pursuing: {
         course: "Information & Communication Technology",
         program: "b.tech",
@@ -27,7 +19,7 @@ const harsh = {
     skills: ["ReactJs", "NodeJs", "MongoDB", "Android Development", "HTML", "CSS",
                "JavaScript", "Java", "C", "C++", "Python", "SQLite-MySQL"],
     hobbies: ["Reading Book", "Music", "Cricket"],
-    currentFocus: ["Software Engineering", "Full-stack development"],
+    currentFocus: ["Software Engineering", "Back-end Engineering"],
 };
 ```
 
