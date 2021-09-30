@@ -1,4 +1,4 @@
-<h2> Hellooo!! This is Harsh Mange!!</h2>
+<h2> Hellooo, This is Harsh Mange!!</h2>
 <p><em>Undergraduate Student at <a href="https://ahduni.edu.in">Ahmedabad University</a></em></p>
 
 [![Linkedin: harsh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshmange)
