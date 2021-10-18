@@ -2,6 +2,7 @@
 <p><em>Undergraduate Student at <a href="https://ahduni.edu.in">Ahmedabad University</a></em></p>
 
 [![Linkedin: harsh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshmange)
+[![Portfolio](https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black)](https://harshmange.netlify.app)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harshmange44@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/icode4)
 [![CodeChef](https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/harshmange44)
