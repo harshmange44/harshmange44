@@ -19,8 +19,6 @@
     },
     skills: ["ReactJs", "NodeJs", "MongoDB", "Android Development", "HTML", "CSS",
                "JavaScript", "Java", "C", "C++", "Python", "SQLite-MySQL"],
-    hobbies: ["Reading Book", "Music", "Cricket"],
-    currentFocus: ["Software Engineering", "Back-end Engineering"],
 };
 ```
 
