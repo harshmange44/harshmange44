@@ -11,7 +11,7 @@
 ```javascript
 {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web development", "Android app development", "Cricket"],
+    askMeAbout: ["Web development", "Android app development", "Backend Engineering"],
     pursuing: {
         course: "Information & Communication Technology",
         program: "b.tech",
